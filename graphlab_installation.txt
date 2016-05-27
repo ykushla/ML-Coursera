@@ -1,0 +1,10 @@
+https://dato.com/download/install-graphlab-create-command-line.html
+https://dato.com/download/release-notes.html
+http://forum.dato.com/discussion/1962/beta-support-for-graphlab-create-on-python-3-4
+
+
+-------
+
+pip install --upgrade --no-cache-dir https://get.graphlab.com/GraphLab-Create/1.9/ykushla@gmail.com/F4E0-20DA-D6C0-9E61-57A7-66CF-73F9-9BCE/GraphLab-Create-License.tar.gz
+
+graphlab.product_key.set_product_key('F4E0-20DA-D6C0-9E61-57A7-66CF-73F9-9BCE')
